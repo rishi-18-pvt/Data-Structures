@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
