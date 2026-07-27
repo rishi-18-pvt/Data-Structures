@@ -7,6 +7,7 @@ Self-practice LeetCode questions repo to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0162-find-peak-element) |
@@ -16,6 +17,7 @@ Self-practice LeetCode questions repo to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -39,4 +41,8 @@ Self-practice LeetCode questions repo to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
