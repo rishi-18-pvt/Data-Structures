@@ -13,6 +13,7 @@ Self-practice LeetCode questions repo to ace the coding interview!
 | [0162-find-peak-element](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
