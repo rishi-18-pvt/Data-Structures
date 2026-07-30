@@ -15,6 +15,7 @@ Self-practice LeetCode questions repo to ace the coding interview!
 | [0283-move-zeroes](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,8 @@ Self-practice LeetCode questions repo to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
