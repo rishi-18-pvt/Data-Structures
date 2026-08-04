@@ -28,6 +28,7 @@ Self-practice LeetCode questions repo to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0704-binary-search) |
@@ -51,4 +52,12 @@ Self-practice LeetCode questions repo to ace the coding interview!
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0724-find-pivot-index) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
