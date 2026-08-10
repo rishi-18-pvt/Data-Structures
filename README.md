@@ -10,6 +10,7 @@ Self-practice LeetCode questions repo to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0283-move-zeroes) |
@@ -28,6 +29,7 @@ Self-practice LeetCode questions repo to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
