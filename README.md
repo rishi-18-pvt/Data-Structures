@@ -15,6 +15,7 @@ Self-practice LeetCode questions repo to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0704-binary-search) |
@@ -27,6 +28,7 @@ Self-practice LeetCode questions repo to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
@@ -62,6 +64,7 @@ Self-practice LeetCode questions repo to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/rishi-18-pvt/Data-Structures/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
